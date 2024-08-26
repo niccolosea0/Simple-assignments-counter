@@ -1,0 +1,50 @@
+body {
+    background-image: url("assigments.avif");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    color: #003049;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #003049;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: large;
+}
+h1 {
+    font-size: 50px;
+    border: none;
+    background-color: bisque;
+    width: 600px;
+    border-radius: 10px;
+    margin: 300px auto 50px auto;
+}
+h2 {
+    margin-top: 0;
+    font-size: 50px;
+    margin-bottom: 50px;
+
+}
+#increment-btn {
+    background-color: bisque;
+}
+#save-btn {
+    background-color: bisque;
+}
+#save-el {
+    font-size: 30px;
+    margin: 40px auto 50px auto;
+}
+#clear-btn {
+    background-color: bisque;
+    margin-top: 20px;
+}
